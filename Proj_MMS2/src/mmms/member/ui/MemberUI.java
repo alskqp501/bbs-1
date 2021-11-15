@@ -13,7 +13,7 @@ public class MemberUI {
 		System.out.print("Pull 연습");
 			
 		System.out.print("commit-push 연습1");
-		
+		System.out.print("slave branch 연습1");
 		boolean isStop = false;
 		MemberController memberController = new MemberController();
 		Scanner sc = new Scanner(System.in);
